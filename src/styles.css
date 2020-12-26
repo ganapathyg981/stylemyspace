@@ -1,9 +1,0 @@
-/* You can add global styles to this file, and also import other style files */
-@font-face {
-    font-family: NotoSansJP;
-    src: url("assets/fonts/NotoSansJP-Regular.otf") format("opentype");
-}
-
-body{
-    font-family:NotoSansJP;
-}
